@@ -1,0 +1,15 @@
+[ {
+  "departure_city" : "Voronezh",
+  "arrival_city" : "Moscow",
+  "number_passengers" : 180,
+  "duration" : "2 ч. 4 мин.",
+  "price" : 4599.0,
+  "id" : 1
+}, {
+  "departure_city" : "Vladivostok",
+  "arrival_city" : "Saratov",
+  "number_passengers" : 230,
+  "duration" : "7 ч. 40 мин",
+  "price" : 15366.87,
+  "id" : 2
+} ]
